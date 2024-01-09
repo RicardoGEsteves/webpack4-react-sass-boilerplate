@@ -28,7 +28,7 @@
         "react-hot-loader": "^4.3.12",
         "webpack": "^4.26.1",
         "webpack-cli": "^3.1.2",
-        "webpack-dev-server": "^3.1.11"
+        "webpack-dev-server": "^4.15.1"
     },
     "dependencies": {
         "css-loader": "^6.8.1",
